@@ -1,0 +1,9 @@
+
+c
+java:S2259"AA "NullPointerException" could be thrown; "con" is nullable here.(éÆ“šûÿÿÿÿ8à¾ï¦¬0
+q
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Ž»©žÿÿÿÿÿ8ÜÚˆ¤¬0
+H
+java:S4925"-Remove this "Class.forName()", it is useless.(õ†¨Äùÿÿÿÿ
+]	java:S125"<This block of commented-out lines of code should be removed.(ƒ¿£–þÿÿÿÿ8™ÄŠ¤¬0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÏÇù¨üÿÿÿÿ8•ê…¤¬0
